@@ -9,7 +9,7 @@ API de dados abertos do Banco Central do Brasil (SGS, série 1: dólar americano
 - [x] Coleta via API, tratamento e validação dos dados (ETL)
 - [ ] Análise exploratória e perguntas de negócio
 - [ ] Análise por governo/mandato
-- [ ] Dashboard no Power BI
+- [x] Dashboard no Power BI
 
 ## Etapa 1: ETL
 - Coleta em 4 períodos e concatenação em um único DataFrame
